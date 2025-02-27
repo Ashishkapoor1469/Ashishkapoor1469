@@ -1,0 +1,70 @@
+.img1{
+    background-image: url(https://img.freepik.com/free-photo/top-view-hardback-books-frame_23-2148827215.jpg?t=st=1740319892~exp=1740323492~hmac=6a1aeca95b249e0a0fd474febef98a1cd4a870183aca856ac583b820252deabd&w=1380);
+  background-size: cover;
+ background-position: center;
+}
+.img2{
+    background-image: url(https://img.freepik.com/free-photo/back-school-concept-books-colored-pencils-clock_155003-3671.jpg?t=st=1740319389~exp=1740322989~hmac=9c9f7d43d1e4948ed2f1e5197d92a796ef2bc857ea2222bd7dd0436ff5b8742f&w=1380);
+    background-size: cover;
+    background-position: center;
+}
+.img3{
+    background-image: url(https://img.freepik.com/free-photo/education-day-assortment-with-copy-space_23-2148721275.jpg?t=st=1740320001~exp=1740323601~hmac=c8a3e02f3b54034acde023857604c2836d66bc94d8936387614aa930e46b1c33&w=1480);
+    background-size: cover;
+    background-position: center;
+}
+.img4{
+    background-image: url(https://img.freepik.com/free-photo/close-up-office-supplies-yellow-background_23-2148052639.jpg?t=st=1740319556~exp=1740323156~hmac=4f8b12640bf59f730cb72509ac44cd2faebab9bdf13a9a1fc60860dd0c9a00c9&w=1380);
+    background-size: cover;
+    background-position: center;
+}
+.img5{
+    background-image: url(https://img.freepik.com/free-vector/flat-national-science-day-background_23-2149283132.jpg?t=st=1740319599~exp=1740323199~hmac=01b98ffce409711ded849a3bd579ed7cfe24527db6ce94ecd11f7e4b89da245d&w=1380);
+    background-size: cover;
+    background-position: center;
+}
+.img6{
+background-image: url(https://img.freepik.com/free-vector/disruptive-education-globe-background-vector-geography-digital-remix_53876-140586.jpg?t=st=1740319623~exp=1740323223~hmac=33e6745e835e6a39d8ed533e59e5edadb4dfecb75c9982eb20af96246b107a53&w=1380);
+    background-size: cover;
+    background-position: center;
+}
+.img7{
+   background-image: url(https://img.freepik.com/free-photo/learn-learning-education-studying-concept_53876-120493.jpg?t=st=1740319691~exp=1740323291~hmac=391391f44f86b0108f97afce5aca0e78d34d36ee58e93602fc41fa8106665ed5&w=1380);
+    background-size: cover;
+    background-position: center;
+}
+.img8{
+ background-image: url(https://img.freepik.com/free-vector/hand-drawn-world-art-day-background_23-2149332778.jpg?t=st=1740319838~exp=1740323438~hmac=500256476d34f0cef331991a3b444a3eb16f180f5075d4f4c2fba691c38431b4&w=1380);
+    background-size: cover;
+    background-position: center;
+}
+.img9{
+    background-image: url(https://img.freepik.com/free-photo/teacher-s-day-elements-composition_23-2149044935.jpg?t=st=1740319330~exp=1740322930~hmac=a29b84f95bea5d5c073bc022badfd9299c3581c49f15fd4296516fd04b556304&w=1380);
+    background-size: cover;
+    background-position: center;
+}
+
+.bg1{
+    background-image: url(https://img.freepik.com/free-vector/blue-abstract-background_78370-97.jpg?t=st=1740406835~exp=1740410435~hmac=b9d8ca55753230787ce01ade12c96ba1c37b38e7e8bce435933554ecf723fda6&w=1380);
+}
+
+
+.bg2{
+    background-image: url(https://img.freepik.com/free-vector/gradient-minimalist-background_23-2149974328.jpg?t=st=1740407037~exp=1740410637~hmac=663c41f1d684e4b6be069b9942bcc3170678cd99be5c53024648c158c72f32c0&w=1380);
+}
+
+.rounded-video {
+    border-radius: 16px; /* Adjust the value as needed */
+  }
+
+
+  .photo1{
+    background-image: url(https://miro.medium.com/v2/resize:fit:1400/1*KnV1cBSw-kWyh7Y6XEEzrA.jpeg);
+  background-size: cover;
+  background-position: center;
+}
+.photo2{
+    background-image: url(https://images.pexels.com/photos/5474028/pexels-photo-5474028.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-size: cover;
+  background-position: center;
+}
