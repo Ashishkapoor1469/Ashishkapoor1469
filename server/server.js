@@ -13,7 +13,7 @@ const Port = 5000;
 
 //cors policy
 const corsOption ={
-    origin: "https://render.com/docs/web-services#port-binding",
+    origin: "http://localhost:5173",
     method:"GET,POST,PUT,DELETE,PATCH,HEAD",
     credentials: true,
 };
