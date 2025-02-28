@@ -9,7 +9,7 @@ const adminRoute = require('./router/admin-router')
 const connectDB = require('./utils/db'); // Importing the connectDB function from db.js
 const errorMiddleware = require('./middlewares/error-middleware');
 const services = require('./controllers/service-controler');
-const Port = 5000;
+const Port = process.env.PORT || 5000;
 
 //cors policy
 const corsOption ={
