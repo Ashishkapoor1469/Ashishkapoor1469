@@ -11,7 +11,7 @@ I'm a passionate Frontend Developer with experience in building responsive and i
 ## 🛠️ Technologies & Tools
 
 ![HTML]()
-![CSS]()
+![CSS](https://cdn.iconscout.com/icon/free/png-512/free-css-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226088.png?f=webp&w=256)
 ![JavaScript]()
 ![React]()
 ![Redux]()
