@@ -10,8 +10,8 @@ I'm a passionate Frontend Developer with experience in building responsive and i
 
 ## 🛠️ Technologies & Tools
 
-![HTML](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/167_Html5_logo_logos-512.png)
-![CSS](https://banner2.cleanpng.com/20180816/rcw/b0f2f0065cdc7d623eb330a9288a8a66.webp)
+![HTML]()
+![CSS]()
 ![JavaScript]()
 ![React]()
 ![Redux]()
