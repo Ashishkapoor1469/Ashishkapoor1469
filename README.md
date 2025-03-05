@@ -23,7 +23,7 @@ I'm a passionate Frontend Developer with experience in building responsive and i
 
 ## 📈 GitHub Stats
 
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish-skills&show_icons=true&theme=radical)
+![Ashish's GitHub stats]()
 
 ## 📝 Latest Blog Posts
 
