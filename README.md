@@ -7,6 +7,7 @@ I'm a passionate Frontend Developer with experience in building responsive and i
 - 🌍  Based in chamba, Himachal Pradesh, India
 - 💼  Open to freelance opportunities and collaborations
 - 📫  Reach me at [kapoorashish714@gmail.com](mailto:ashishkapoor6699@gmail.com)
+-  Website link [https://cofolio.netlify.app/]
 
 ## 🛠️ Technologies & Tools
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -18,9 +19,6 @@ I'm a passionate Frontend Developer with experience in building responsive and i
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-## 🌌Website Link
-[Website link][https://cofolio.netlify.app/]
 
 ## 📈 GitHub Stats
 
