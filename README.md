@@ -7,7 +7,8 @@ I'm a passionate Frontend Developer with experience in building responsive and i
 - 🌍  Based in chamba, Himachal Pradesh, India
 - 💼  Open to freelance opportunities and collaborations
 - 📫  Reach me at [kapoorashish714@gmail.com](mailto:ashishkapoor6699@gmail.com)
--  Portfolio → [https://cofolio.netlify.app/](https://cofolio.netlify.app/)
+-  Portfolio incomplete → [https://cofolio.netlify.app/](https://cofolio.netlify.app/)
+-  New Portfolio → [https://portfolio-phi-ivory-91.vercel.app/](https://portfolio-phi-ivory-91.vercel.app/)
 -  Website [https://eduviibe.netlify.app/](https://eduviibe.netlify.app/)
 
 
