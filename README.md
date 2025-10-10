@@ -12,7 +12,7 @@ Turning complex ideas into **simple, beautiful, and user-friendly experiences** 
 - 💼 Open to **freelance opportunities & collaborations**  
 - ✉️ Reach me at: [kapoorashish714@gmail.com](mailto:kapoorashish714@gmail.com)  
 - 🌐 Portfolio: [afolo.vercel.app](https://afolo.vercel.app/)  
-- 💬 My Chat App: [chatttkero.vercel.app](https://chatttkero.vercel.app/)  
+- 💬 CodeAxe: [codeaxe.vercel.app](https://codeaxe.vercel.app/)  
 
 ---
 
