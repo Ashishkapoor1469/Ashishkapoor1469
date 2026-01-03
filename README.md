@@ -33,7 +33,7 @@ Turning complex ideas into **simple, beautiful, and user-friendly experiences** 
 
 ## 🛠 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,vite,threejs,nodejs,express,mongodb,mysql,vercel,netlify,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,vite,threejs,nodejs,express,mongodb,mysql,vercel,netlify,git,github,golang" />
 </p>  
 
 ---
