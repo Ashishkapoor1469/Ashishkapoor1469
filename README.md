@@ -8,7 +8,7 @@ Turning complex ideas into **simple, beautiful, and user-friendly experiences** 
 ---
 
 ## 🚀 About Me  
-- 🌍 Based in **Chamba, Himachal Pradesh, India**  
+- 🌍 From in **Chamba, Himachal Pradesh, India**  
 - 💼 Open to **freelance opportunities & collaborations**  
 - ✉️ Reach me at: [kapoorashish714@gmail.com](mailto:kapoorashish714@gmail.com)  
 - 🌐 Portfolio: [afolo.vercel.app](https://afolo.vercel.app/)  
