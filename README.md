@@ -36,7 +36,8 @@ Focused on performance, accessibility, and clean UI.
 ---
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashishkapoor1469&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashishkapoor1469&theme=tokyonight)
+
 
 
 ---
