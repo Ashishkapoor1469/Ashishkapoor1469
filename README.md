@@ -43,8 +43,8 @@ Focused on performance, accessibility, and clean UI.
 ---
 
 ### Connect
-- LinkedIn: https://linkedin.com/in/ashish-kapoor4169 
-- Instagram: https://www.instagram.com/ashish_kapoor_1  
+- LinkedIn: [ashish-kapoor4169 ](http://linkedin.com/in/ashishkapoor4169/)
+- Instagram: [ashish_kapoor_1](https://www.instagram.com/ashish_kapoor_1)  
 
 ---
 
