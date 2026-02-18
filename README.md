@@ -25,8 +25,8 @@ Focused on performance, accessibility, and clean UI.
 - Vite, Three.js  
 
 **Backend**
-- Node.js, Express  
-- MongoDB, MySQL  
+- Node.js, Express ,FastApi
+- MongoDB, MySQL 
 
 **Other**
 - Git & GitHub  
