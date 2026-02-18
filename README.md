@@ -1,64 +1,52 @@
-# 👋 Hey there, I'm Ashish Kapoor  
+# Ashish Kapoor
 
-💻 **Frontend Developer | Full-Stack Enthusiast | Tech Explorer**  
-
-I love building **interactive, modern, and scalable** web applications.  
-Turning complex ideas into **simple, beautiful, and user-friendly experiences** is what excites me the most.  
+Frontend Developer • Full-Stack Enthusiast  
+Building clean, scalable, and user-focused web experiences.
 
 ---
 
-## 🚀 About Me  
-- 🌍 From  **Chamba, Himachal Pradesh, India**  
-- 💼 Open to **freelance opportunities & collaborations**  
-- ✉️ Reach me at: [kapoorashish714@gmail.com](mailto:kapoorashish714@gmail.com)  
-- 🌐 Portfolio: [ashishzu.in](https://www.ashishzu.in/)  
-- 💬 CodeAxe: [codeaxe.vercel.app](https://codeaxe.vercel.app/)  
+### About
+I enjoy turning complex problems into simple, elegant solutions through modern web technologies.  
+Focused on performance, accessibility, and clean UI.
+
+- 📍 Chamba, Himachal Pradesh, India  
+- 💼 Open to freelance & collaboration opportunities  
+- 📫 Email: kapoorashish714@gmail.com  
+- 🌐 Portfolio: https://www.ashishzu.in  
+- 💬 Project: https://codeaxe.vercel.app  
 
 ---
 
-## 🌐 Connect with Me  
-<p align="left">
-  <a href="https://www.instagram.com/ashish_kapoor_1">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://linkedin.com/in/ashish-kapoor-225535346">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:kapoorashish714@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-</p>  
+### Tech Stack
+**Frontend**
+- HTML, CSS, JavaScript, TypeScript  
+- React, Next.js  
+- Tailwind CSS, Bootstrap  
+- Vite, Three.js  
+
+**Backend**
+- Node.js, Express  
+- MongoDB, MySQL  
+
+**Other**
+- Git & GitHub  
+- Vercel, Netlify  
+- Golang (learning), Python  
 
 ---
 
-## 🛠 Tech Stack  
+### GitHub Stats
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,vite,threejs,nodejs,express,mongodb,mysql,vercel,netlify,git,github,golang,python" />
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashishkapoor1469&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishkapoor1469&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=Ashishkapoor1469&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
-  ![](https://nirzak-streak-stats.vercel.app/?user=Ashishkapoor1469&theme=tokyonight&hide_border=false)  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishkapoor1469&theme=tokyonight&hide_border=false&layout=compact)  
-
-</div>  
+### Connect
+- LinkedIn: https://linkedin.com/in/ashish-kapoor-225535346  
+- Instagram: https://www.instagram.com/ashish_kapoor_1  
 
 ---
 
-## 🎯 Fun Facts  
-- 🎮 I enjoy **gaming & exploring tech**  
-- 🎵 Music keeps me focused while coding  
-- ✈️ Love traveling & exploring new places  
-
----
-
-<p align="center">  
-  <img src="https://visitcount.itsvg.in/api?id=Ashishkapoor1469&icon=6&color=12" />  
-</p>  
-
----
-✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨  
+> “Code is like humor. When you have to explain it, it’s bad.”
