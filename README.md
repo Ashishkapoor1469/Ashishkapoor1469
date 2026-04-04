@@ -11,8 +11,7 @@
 <img src="https://img.shields.io/badge/Location-Chamba%2C%20Himachal%20Pradesh-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Degree-BCA-6C3483?style=for-the-badge&logo=academia&logoColor=white"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=ashishkapoor&style=for-the-badge&color=302b63&label=Profile+Views"/>
+
 
 <br/><br/>
 
