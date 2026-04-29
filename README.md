@@ -152,13 +152,13 @@ Python                         ██████████░░░░░░�
  
 <div align="center">
  
-<img src="https://github-readme-stats.vercel.app/api?username=ashishkapoor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=38bdf8&text_color=e2e8f0" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ashishkapoor1469&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=38bdf8&text_color=e2e8f0" width="48%"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ashishkapoor&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=38bdf8&currStreakLabel=e2e8f0" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ashishkapoor1469&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=38bdf8&currStreakLabel=e2e8f0" width="48%"/>
  
 <br/><br/>
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkapoor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishkapoor1469&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0" width="40%"/>
  
 </div>
  
