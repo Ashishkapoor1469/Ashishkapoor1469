@@ -4,14 +4,13 @@
 
 <br/>
 
-<a href="https://github.com/ashishkapoor">
-  <img src="https://img.shields.io/badge/GitHub-ashishkapoor-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Ashishkapoor1469">
+  <img src="https://img.shields.io/badge/GitHub-Ashishkapoor1469-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <img src="https://img.shields.io/badge/Location-Chamba%2C%20Himachal%20Pradesh-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Degree-BCA-6C3483?style=for-the-badge&logo=academia&logoColor=white"/>
-
 
 <br/><br/>
 
@@ -26,25 +25,24 @@
 
 ---
 
- 
 ## 👨‍💻 About Me
- 
+
 Hey there! I'm **Ashish Kapoor**, a passionate **Full-Stack Developer** and **BCA student** from the mountains of **Chamba, Himachal Pradesh, India** 🏔️.
- 
+
 I love building modern, scalable web applications — from sleek frontends to robust microservices backends. I'm always curious about what's new in the tech world and enjoy spending my free time playing chess ♟️ and exploring emerging technologies.
- 
+
 - 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
 - 🌍 Based in **Chamba, Himachal Pradesh**
-- 🔭 Currently building **FORGE CLI** (AI multi-agent terminal system), **Zitter** & a **Multi-Platform AI Assistant**
+- 🔭 Currently building **FORGE CLI**, **NestGo**, **Zitter** & a **Multi-Platform AI Assistant**
 - 🚀 Actively participating in **Hackathons** with real-world project submissions
 - ♟️ Chess player — strategic thinking on and off the board
 - 🧠 Always exploring cutting-edge tech: **AI/ML**, **microservices**, **cloud infrastructure**
-- 💬 Ask me about **Next.js**, **NestJS**, **TypeScript**, or **full-stack architecture**
- 
+- 💬 Ask me about **Next.js**, **NestJS**, **Go**, **TypeScript**, or **full-stack architecture**
+
 ---
- 
+
 ## 🛠️ Tech Stack
- 
+
 ### 🌐 Frontend
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -53,7 +51,7 @@ I love building modern, scalable web applications — from sleek frontends to ro
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
- 
+
 ### ⚙️ Backend
 <p>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
@@ -62,7 +60,7 @@ I love building modern, scalable web applications — from sleek frontends to ro
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
- 
+
 ### 🗄️ Databases & ORMs
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -71,14 +69,14 @@ I love building modern, scalable web applications — from sleek frontends to ro
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black"/>
 </p>
- 
+
 ### ☁️ Cloud & BaaS
 <p>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
- 
+
 ### 🧰 Tools & Others
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -87,11 +85,11 @@ I love building modern, scalable web applications — from sleek frontends to ro
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
- 
+
 ---
- 
+
 ## 🔥 Skill Proficiency
- 
+
 ```
 Frontend (Next.js / React)     ███████████████████░░   90%
 TypeScript / JavaScript        ████████████████████░   92%
@@ -102,93 +100,113 @@ BaaS (Supabase / Firebase)     ██████████████░░�
 Go (Golang)                    ██████████░░░░░░░░░░░   50%
 Python                         ██████████░░░░░░░░░░░   50%
 ```
- 
+
 ---
- 
+
 ## 🏗️ Featured Projects
- 
+
+### 🐹 NestGo — Modular Go Backend Framework
+> An opinionated, production-ready backend framework for Go, inspired by NestJS. NestGo brings enterprise-grade architecture patterns — modular design, compile-time dependency injection, and a powerful CLI — to the Go ecosystem without compromising on performance or type safety.
+
+<p>
+  <img src="https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/version-v0.5.0-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/license-MIT-22c55e?style=flat-square"/>
+  <img src="https://img.shields.io/badge/status-Active-brightgreen?style=flat-square"/>
+</p>
+
+- **Stack:** Go 1.22+ · Chi Router · PostgreSQL · JWT · bcrypt · SQL Migrations
+- **Architecture:** Modular system with automatic dependency resolution — each feature is an isolated, self-contained module that wires itself into the app
+- **Dependency Injection:** Compile-time DI with zero reflection and full type safety — no magic, no runtime surprises
+- **CLI (`nestgo`):** Scaffold projects, generate full CRUD resources, manage DB migrations, run a hot-reload dev server, and inspect your app — all from the terminal
+- **Code Generation:** One command (`nestgo generate resource <name>`) produces a complete module — controller, service, DTOs, entity, SQL migration, and table-driven tests — all automatically registered
+- **Diagnostics:** Built-in `nestgo doctor` for project health checks, `nestgo routes` for route inspection, `nestgo graph` for module dependency visualization, and `nestgo lint-arch` for clean architecture enforcement
+- **Performance:** Native Go throughput with a full enterprise pipeline (DI container + module resolution + middleware) on every request
+- **Repo:** [github.com/Ashishkapoor1469/Nestgo](https://github.com/Ashishkapoor1469/Nestgo)
+
+```bash
+# Get started in 3 commands
+nestgo new myapp && cd myapp && nestgo dev
+# → API live at http://localhost:3000/api
+```
+
+`[Go Framework · CLI Tooling · Open Source · v0.5.0 · MIT]`
+
+---
+
 ### ⚡ FORGE — AI Multi-Agent CLI System
 > A production-grade multi-agent AI coding system that runs directly inside your terminal. Orchestrates intelligent Planner, Task Manager, and Worker agents to decompose requests, schedule parallel execution waves, and generate real source files in your workspace — inspired by Claude Code.
- 
+
 - **Stack:** Node.js · TypeScript · Ollama SDK · OpenRouter API · @clack/prompts · Chalk
 - **Features:** Multi-agent pipeline (Planner → Task Manager → Worker), intent router (chat vs build), parallel wave execution, token-by-token streaming, persistent memory across sessions, dual provider support (local Ollama + cloud OpenRouter), real file generation in `workspace/`, Anime Gacha + Buddy companion system 🎮
 - **Supports:** `qwen2.5-coder`, `phi3`, `gemma3`, `gpt-4o`, `claude-3.5-sonnet`, `deepseek-r1` and any OpenRouter model
 - **Repo:** [github.com/Ashishkapoor1469/FORGECLI](https://github.com/Ashishkapoor1469/FORGECLI)
 - `[CLI Tool · Multi-Agent AI · TypeScript]`
- 
+
 ---
- 
+
 ### 🐦 Zitter — Full-Stack Social Application
 > A production-grade, scalable social content platform inspired by Twitter — where users can register, create posts, like content, follow others, and consume a personalized feed.
- 
+
 - **Stack:** React.js · Next.js · Node.js · Express.js · MongoDB · JWT · Cloudinary · Redis · Docker
 - **Features:** JWT authentication + email verification (Resend), post creation & likes, infinite scroll feed, image uploads via Cloudinary, Redis-based rate limiting, horizontal scaling ready
 - **Live:** [minitwitter-psi.vercel.app](https://minitwitter-psi.vercel.app)
 - **Repo:** [github.com/Ashishkapoor1469/Fullstackapplication](https://github.com/Ashishkapoor1469/Fullstackapplication)
 - `[Deployed · Full-Stack · 99 Commits]`
- 
+
 ---
- 
+
 ### 🤖 Multi-Platform AI Assistant
 > A unified AI assistant interface that integrates multiple AI providers and works seamlessly across different platforms — web, desktop, and CLI.
- 
+
 - **Stack:** Next.js · TypeScript · REST APIs · Multi-provider AI (OpenAI, Anthropic, Gemini)
 - **Features:** Cross-platform support, multi-model switching, conversation history, streaming responses, provider-agnostic architecture
 - **Repo:** [github.com/Ashishkapoor1469/multi-platform-ai-assistant](https://github.com/Ashishkapoor1469/multi-platform-ai-assistant)
 - `[AI Integration · Multi-Provider]`
- 
+
 ---
- 
-### 🧠 Digital Socratic — Adaptive AI Teaching Assistant
-> An AI-powered teaching assistant that adapts to individual student learning styles and delivers personalized, Socratic-method learning experiences.
- 
-- **Stack:** Next.js · TypeScript · AI API Integration
-- **Features:** Adaptive questioning, real-time feedback, student progress tracking
-- `[Hackathon Project]`
- 
----
- 
+
 ## 📊 GitHub Stats
- 
+
 <div align="center">
- 
+
 <img src="https://github-readme-stats.vercel.app/api?username=Ashishkapoor1469&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=38bdf8&text_color=e2e8f0" width="48%"/>
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Ashishkapoor1469&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=38bdf8&currStreakLabel=e2e8f0" width="48%"/>
- 
+
 <br/><br/>
- 
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishkapoor1469&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0" width="40%"/>
- 
+
 </div>
- 
+
 ---
- 
+
 ## 🌱 Currently Exploring
- 
+
 - 🤖 **AI/ML Integration** in production web apps
-- 🦀 **Rust** for systems-level programming (next on the list!)
 - 📦 **Microservices architecture** patterns with NestJS + gRPC
 - 🔍 **Vector Databases** (Pinecone, Weaviate) for AI-native apps
 - ☁️ **Cloud-native deployment** with Docker + Kubernetes
- 
+- 🐹 **Expanding NestGo** — WebSocket support, OpenAPI auto-generation, Redis caching
+
 ---
- 
+
 ## ♟️ Beyond Code
- 
+
 When I'm not building things, you'll find me:
 - **Playing Chess** — I approach problems the same way: think ahead, control the center, don't rush
 - **Reading about emerging tech** — Web3, edge computing, AI agents, whatever's next
 - **Exploring the mountains** of Himachal Pradesh 🏔️ — Chamba has views that inspire clarity
- 
+
 > *"Chess taught me patience. Code taught me precision. The mountains taught me perspective."*
- 
+
 ---
- 
+
 ## 📫 Let's Connect
- 
+
 <div align="center">
- 
+
 <a href="mailto:kapoorashish714@email.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -204,16 +222,15 @@ When I'm not building things, you'll find me:
 <a href="https://twitter.com">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
- 
+
 <br/><br/>
- 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
- 
+
 </div>
- 
+
 ---
- 
+
 <div align="center">
   <sub>Crafted with ❤️ from the mountains of Chamba, Himachal Pradesh 🏔️</sub>
 </div>
- 
