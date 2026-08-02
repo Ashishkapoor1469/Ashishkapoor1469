@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/web-banner.svg" width="100%"/>
+<img src="./web-banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=22&pause=900&color=FF3131&center=true&vCenter=true&width=700&lines=With+great+code+comes+great+responsibility;Swinging+between+Next.js+%26+Go+rooftops;Currently+patrolling%3A+FORGE+CLI+%2B+NestGo;Chess+by+night+%E2%99%9F%EF%B8%8F+%7C+Chamba+by+birth+%F0%9F%8F%94%EF%B8%8F" alt="Typing SVG"/>
 
