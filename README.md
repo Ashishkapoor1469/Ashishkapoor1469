@@ -241,13 +241,13 @@ A provider-independent assistant architecture designed for web, desktop, and com
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Ashishkapoor1469&show_icons=true&hide_border=true&bg_color=F4F0E8&title_color=111111&text_color=333333&icon_color=B33A2B"
+  src="https://github-readme-stats-fast.vercel.app/api?username=Ashishkapoor1469&show_icons=true&hide_border=true&bg_color=F4F0E8&title_color=111111&text_color=333333&icon_color=B33A2B"
   width="48%"
-  alt="GitHub statistics"
+  alt="Ashish Kapoor GitHub statistics"
 />
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com?user=Ashishkapoor1469&hide_border=true&background=F4F0E8&ring=B33A2B&fire=B33A2B&currStreakLabel=284B63&sideLabels=333333&dates=666666&currStreakNum=111111&sideNums=111111"
+  src="https://streak-stats.demolab.com?user=Ashishkapoor1469&hide_border=true&background=F4F0E8&ring=B33A2B&fire=B33A2B&currStreakLabel=284B63&sideLabels=333333&dates=666666&currStreakNum=111111&sideNums=111111"
   width="48%"
   alt="GitHub streak"
 />
@@ -255,7 +255,7 @@ A provider-independent assistant architecture designed for web, desktop, and com
 <br/><br/>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishkapoor1469&layout=compact&hide_border=true&bg_color=F4F0E8&title_color=111111&text_color=333333&langs_count=10"
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ashishkapoor1469&layout=compact&hide_border=true&bg_color=F4F0E8&title_color=111111&text_color=333333&langs_count=10"
   width="44%"
   alt="Most used languages"
 />
