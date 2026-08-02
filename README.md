@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="./assets/editorial-header.png" width="100%" alt="Ashish Kapoor — Full-Stack Developer"/>
+<img src="./editorial-header.png" width="100%" alt="Ashish Kapoor — Full-Stack Developer"/>
 
 <br/>
 
@@ -61,7 +61,7 @@ const ashish = {
 </td>
 <td width="42%" valign="top">
 
-<img src="./assets/engineer-note-card.png" width="100%" alt="Building elegant systems for real problems"/>
+<img src="./engineer-note-card.png" width="100%" alt="Building elegant systems for real problems"/>
 
 </td>
 </tr>
@@ -99,7 +99,7 @@ const ashish = {
 <tr>
 <td width="38%" align="center" valign="middle">
 
-<img src="./assets/chess-strategy.png" width="92%" alt="Chess strategy and engineering thinking"/>
+<img src="./chess-strategy.png" width="92%" alt="Chess strategy and engineering thinking"/>
 
 </td>
 <td width="62%" valign="top">
@@ -224,7 +224,7 @@ A provider-independent assistant architecture designed for web, desktop, and com
 
 ## CURRENTLY BUILDING
 
-<img src="./assets/currently-building-strip.png" width="100%" alt="Currently building and learning"/>
+<img src="./currently-building-strip.png" width="100%" alt="Currently building and learning"/>
 
 | Area | Current direction |
 |---|---|
@@ -324,7 +324,7 @@ Exploring Himachal Pradesh and finding clarity away from screens.
 
 <br/><br/>
 
-<img src="./assets/editorial-footer.png" width="100%" alt="Build. Learn. Improve."/>
+<img src="./editorial-footer.png" width="100%" alt="Build. Learn. Improve."/>
 
 <sub>Built from Chamba, Himachal Pradesh — one thoughtful system at a time.</sub>
 
