@@ -76,7 +76,7 @@ clean architecture, thoughtful user experience, and continuous learning.
   alt="Engineer note"
 />
 
-<br/><br/>
+<br/>
 
 <img
   src="./engineering-blueprint.png"
