@@ -71,7 +71,7 @@ clean architecture, thoughtful user experience, and continuous learning.
 <td width="42%" valign="top" align="center">
 
 <img
-  src="./assets/engineer-note-card.png"
+  src="./engineer-note-card.png"
   width="100%"
   alt="Engineer note"
 />
@@ -79,7 +79,7 @@ clean architecture, thoughtful user experience, and continuous learning.
 <br/><br/>
 
 <img
-  src="./assets/engineering-blueprint.png"
+  src="./engineering-blueprint.png"
   width="100%"
   alt="Engineering blueprint"
 />
