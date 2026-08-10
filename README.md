@@ -36,16 +36,24 @@
 
 <table>
 <tr>
+
 <td width="58%" valign="top">
 
-### Ashish Kapoor
+<h3>Ashish Kapoor</h3>
 
-I am a **Full-Stack Developer** and **BCA student** from **Chamba, Himachal Pradesh**.
+<p>
+I am a <strong>Full-Stack Developer</strong> and <strong>BCA student</strong> from
+<strong>Chamba, Himachal Pradesh</strong>.
+</p>
 
-I enjoy building useful products, scalable backend systems, developer tools, and AI-powered applications. My work combines practical engineering, clean architecture, thoughtful user experience, and continuous learning.
+<p>
+I enjoy building useful products, scalable backend systems, developer tools,
+and AI-powered applications. My work combines practical engineering,
+clean architecture, thoughtful user experience, and continuous learning.
+</p>
 
-```ts
-const ashish = {
+<pre>
+<code>const ashish = {
   role: "Full-Stack Developer",
   location: "Chamba, Himachal Pradesh",
   focus: [
@@ -55,15 +63,29 @@ const ashish = {
     "AI Applications"
   ],
   mindset: "Think. Plan. Execute. Improve."
-};
-```
+};</code>
+</pre>
 
 </td>
-<td width="42%" valign="top">
 
-<img src="./engineer-note-card.png" width="100%" alt="Building elegant systems for real problems"/>
+<td width="42%" valign="top" align="center">
+
+<img
+  src="./assets/engineer-note-card.png"
+  width="100%"
+  alt="Engineer note"
+/>
+
+<br/><br/>
+
+<img
+  src="./assets/engineering-blueprint.png"
+  width="100%"
+  alt="Engineering blueprint"
+/>
 
 </td>
+
 </tr>
 </table>
 
