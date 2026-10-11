@@ -332,7 +332,7 @@ Exploring Himachal Pradesh and finding clarity away from screens.
   <img src="https://img.shields.io/badge/Email-Contact_Me-B33A2B?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/ashishkapoor4169">
+<a href="https://www.linkedin.com/in/ashishkapoor-dev">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-284B63?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
